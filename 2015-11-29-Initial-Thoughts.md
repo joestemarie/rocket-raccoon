@@ -1,5 +1,5 @@
 # The Challenge #
-Launch a rocket with basic solid state boosters and log data using a (Raspberry Pi Zero)[https://www.raspberrypi.org/blog/#raspberry-pi-zero]. 
+Launch a rocket with basic solid state boosters and log data using a [Raspberry Pi Zero](https://www.raspberrypi.org/blog/#raspberry-pi-zero). 
 
 This is the initial take on what we need to build to make this possible.
 
